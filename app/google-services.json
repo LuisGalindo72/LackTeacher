@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624062493545",
+    "project_id": "lackteacherapp",
+    "storage_bucket": "lackteacherapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624062493545:android:d8d5e7af31b52b3dc983f8",
+        "android_client_info": {
+          "package_name": "com.example.lackteacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEjtm_Ax-ViPWa9Jj5rSG5ihjJ8bDW9ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
